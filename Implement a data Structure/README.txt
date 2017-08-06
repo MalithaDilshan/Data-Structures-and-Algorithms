@@ -1,0 +1,1 @@
+The aim of this code is implement a linked list data structure (type safe - using java genarics) that can support any data type.
